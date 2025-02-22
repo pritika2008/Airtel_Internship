@@ -28,4 +28,7 @@ Blue/Black: Lower-priced properties.
 4)Download polygon_with_colored_points.kml onto your computer's file system from the Google Colabatory's files  
 5)Upload polygon_with_colored_points.kml onto Google Earth to see the result  
 
+
+
+
 **Note**: This repository does not contain any private company information, such as actual code or datasets. Instead, it provides an overview of the project, methods, and key learnings.
