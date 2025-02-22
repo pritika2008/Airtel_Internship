@@ -21,7 +21,6 @@ Blue/Black: Lower-priced properties.
 
 
 **How to run the code (using Google Colab)**:
-
 1)Install required libraries, if not already installed, using pip install  
 2)Place NY-House-Dataset.csv in the google colabatory's files  
 3)Run the code, which will create polygon_with_colored_points.kml  
