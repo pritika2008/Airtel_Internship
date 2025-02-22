@@ -10,8 +10,7 @@ This code applies DBSCAN clustering to a dataset of New York real estate propert
 It is intentionally designed to be easier to understand to show the core principles of clustering and Google Earth visualization, making it not as complex as the real-world telecom application I had coded during the internship.
 
 
-color representation: 
-
+color representation: /n
 Green: Mid-range prices (Q1-Q3).
 Red: Higher-priced properties.
 Blue/Black: Lower-priced properties.
